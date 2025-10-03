@@ -1,12 +1,12 @@
-# 🎯 Online Quiz App (Java Console Project)
+#  Online Quiz App (Java Console Project)
 
-## 📌 Objective  
+##  Objective  
 A simple console-based quiz application built using **Java**.  
 The program displays multiple-choice questions, accepts user input, checks correctness, and calculates the final score.  
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 - **Language**: Java  
 - **Platform**: Console ( VS Code / Command Line)  
 - **Collections**: `ArrayList`, `List`  
